@@ -12,7 +12,7 @@ def stuff(line, index, totals):
             totals[index[0]] += int(line)
 
 
-for line in open("C:/Users/Green/git/AdventOfCode/2022/Day1/input1.txt"):
+for line in open("C:/Users/Green/git/AdventOfCode/2022/Day1/input.txt"):
     stuff(line, index, totals)
 
 
