@@ -1,0 +1,4 @@
+answer = 0
+
+for line in open("C:/Users/Green/git/AdventOfCode/2022/DayT/input.txt"):
+    line = line.strip()
